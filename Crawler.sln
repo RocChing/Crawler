@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crawl.Core", "Crawl.Core\Crawl.Core.csproj", "{BBA2F40A-1DC3-4121-8986-1D991FA81487}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crawl.Server", "Crawl.Server\Crawl.Server.csproj", "{9CDDCDF3-2656-4D5C-A89C-092F9CF50289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA2F40A-1DC3-4121-8986-1D991FA81487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA2F40A-1DC3-4121-8986-1D991FA81487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA2F40A-1DC3-4121-8986-1D991FA81487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA2F40A-1DC3-4121-8986-1D991FA81487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CDDCDF3-2656-4D5C-A89C-092F9CF50289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDDCDF3-2656-4D5C-A89C-092F9CF50289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDDCDF3-2656-4D5C-A89C-092F9CF50289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDDCDF3-2656-4D5C-A89C-092F9CF50289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C387D36-4909-43BD-9029-7583375C9FC0}
+	EndGlobalSection
+EndGlobal
